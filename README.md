@@ -14,8 +14,6 @@ Read the Guardian's top 10 articles for each main news category
 4. Activate virtual environment:
    
    `venv\scripts\activate` (Windows) 
-   
-   `venv/bin/activate` (Linux/Mac)
 
 5. Install requirements:
 
